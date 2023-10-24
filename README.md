@@ -1,4 +1,14 @@
+### Bienvenido 👋
+¡Hola! Soy Albert Garrido. Te doy la bienvenida a mi perfil de GitHub.
+
+Sobre mí
+Soy un entusiasta estudiante de desarrollo web con habilidades en Java, JavaScript, CSS, SQL, PHP y otras tecnologías. Estoy constantemente buscando formas de mejorar mis habilidades y aprender nuevas tecnologías para crear soluciones innovadoras. Estoy emocionado por contribuir al mundo del desarrollo web y explorar nuevas posibilidades en el campo de la programación.
+
 ### Hi there 👋
+Hello! I'm Albert Garrido. Welcome to my GitHub profile.
+
+About Me
+I'm a passionate web development student with experience in Java, JavaScript, CSS, SQL, PHP and other technologies. I'm constantly seeking ways to enhance my skills and learn new technologies to create innovative solutions. I'm excited to contribute to the world of web development and explore new possibilities in the field of programming.
 
 <!--
 **albertgarrido4/albertgarrido4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
