@@ -1,6 +1,6 @@
 👨‍💻 ¡Bienvenido a mi GitHub!
 
-Soy estudiante de Desarrollo de Aplicaciones Multiplataforma, con una base sólida en Desarrollo de Aplicaciones Web. Aquí encontrarás proyectos donde aplico mis conocimientos en lenguajes como Java, JavaScript, PHP, Kotlin, Swift y frameworks como Laravel, además de trabajar con bases de datos SQL.
+Soy estudiante de Desarrollo de Aplicaciones Multiplataforma, con una base sólida en Desarrollo de Aplicaciones Web. Aquí encontrarás proyectos donde aplico mis conocimientos en lenguajes como Java, JavaScript, PHP, TypeScript, Python, Kotlin, Swift y frameworks como Laravel, además de trabajar con bases de datos SQL.
 
 🚀 Pasión por el código: Me gusta aprender nuevas tecnologías y afrontar desafíos que me permitan crecer como programador. Siempre busco optimizar mis soluciones y explorar diferentes enfoques en el desarrollo de software.
 
@@ -12,7 +12,7 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma, con una base sóli
 
 👨‍💻 Welcome to my GitHub!
 
-I’m a Multiplatform Application Development student with a strong foundation in Web Application Development. Here, you’ll find projects showcasing my skills in languages such as Java, JavaScript, PHP, Kotlin, Swift, and frameworks like Laravel, as well as working with SQL databases.
+I’m a Multiplatform Application Development student with a strong foundation in Web Application Development. Here, you’ll find projects showcasing my skills in languages such as Java, JavaScript, PHP, TypeScript, Python, Kotlin, Swift, and frameworks like Laravel, as well as working with SQL databases.
 
 🚀 Passion for coding: I enjoy learning new technologies and tackling challenges that help me grow as a developer. I strive to optimize my solutions and explore different approaches to software development.
 
